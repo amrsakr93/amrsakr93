@@ -16,34 +16,39 @@
 
 ---
 
-## 🧑‍💻 Tech & Tools  
+## 🧑‍💻 Tech & Languages
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="60" height="60"/>
-<img src="https.img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="60" height="60"/>
-<img src="https://img.icons8.com/fluency/48/000000/data-configuration.png" alt="Power Query" width="60" height="60"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Tech & Tools</strong></td>
+    <td align="center"><strong>Spoken Languages</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="60" height="60"/>
+        <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="60" height="60"/>
+        <img src="https://img.icons8.com/fluency/48/000000/data-configuration.png" alt="Power Query" width="60" height="60"/>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://img.shields.io/badge/English-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Arabic-2C7A34?style=for-the-badge&logo=saucelabs&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 My GitHub Activity
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Amr's GitHub Stats" width="48%"/>
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrsakr93&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
-
----
-
-## 🌍 Languages  
-
-<p align="center">
-<img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge&labelColor=2E3440&color=5E81AC"/>
-<img src="https://img.shields.io/badge/Arabic-🇪🇬-green?style=for-the-badge&labelColor=2E3440&color=A3BE8C"/>
 </p>
 
 ---
