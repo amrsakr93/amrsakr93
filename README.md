@@ -22,21 +22,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="60" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="60" height="60"/>
+<img src="https.img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="60" height="60"/>
 <img src="https://img.icons8.com/fluency/48/000000/data-configuration.png" alt="Power Query" width="60" height="60"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com/?user=amrsakr93&theme=radical" />
-  </a>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Amr's GitHub Stats" width="48%"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrsakr93&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
 ---
