@@ -32,13 +32,16 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrsakr93&theme=radical" height="160"/>
 </p>
 
 ---
 
-## 🌐 Languages
-**English** • **العربية**
+## 🌍 Languages  
+
+<p align="center">
+<img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge&labelColor=2E3440&color=5E81AC"/>
+<img src="https://img.shields.io/badge/العربية-🇪🇬-green?style=for-the-badge&labelColor=2E3440&color=A3BE8C"/>
+</p>
 
 ---
 
