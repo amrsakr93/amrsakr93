@@ -40,7 +40,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge&labelColor=2E3440&color=5E81AC"/>
-<img src="https://img.shields.io/badge/العربية-🇪🇬-green?style=for-the-badge&labelColor=2E3440&color=A3BE8C"/>
+<img src="https://img.shields.io/badge/Arabic-🇪🇬-green?style=for-the-badge&labelColor=2E3440&color=A3BE8C"/>
 </p>
 
 ---
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrsakr93&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=amrsakr93&color=blueviolet&style=flat&label=Profile+Views" alt="Profile Views"/>
 </p>
