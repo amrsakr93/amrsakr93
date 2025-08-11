@@ -35,9 +35,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrsakr93&theme=radical" height="160"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrsakr93&layout=compact&theme=radical" height="160"/>
-</p>
+---
+
+## 🌐 Languages
+**English** • **العربية**
 
 ---
 
