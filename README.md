@@ -30,10 +30,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Amr Sakr's GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrsakr93&theme=radical" alt="Amr Sakr's GitHub Streak Stats" width="400" />
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="center" src="https://streak-stats.demolab.com/?user=amrsakr93&theme=radical" />
+  </a>
+</p>
 
 ---
 
