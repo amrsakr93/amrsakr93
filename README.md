@@ -31,12 +31,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=REPLACE-WITH-YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE-WITH-YOUR-GITHUB-USERNAME&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrsakr93&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE-WITH-YOUR-GITHUB-USERNAME&layout=compact&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrsakr93&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE-WITH-YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=amrsakr93&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
