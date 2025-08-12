@@ -35,9 +35,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- Main GitHub stats card -->
+  <!-- Main GitHub stats card WITHOUT include_all_commits to avoid error -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true" 
     alt="GitHub Stats" 
     height="160"
   />
@@ -66,17 +66,4 @@
 ## 🌍 Languages  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge&labelColor=2E3440&color=5E81AC" alt="English"/>
-  <img src="https://img.shields.io/badge/Arabic-🇪🇬-green?style=for-the-badge&labelColor=2E3440&color=A3BE8C" alt="Arabic"/>
-</p>
-
----
-
-## ✨ Quote of the Day  
-> *"Without data, you're just another person with an opinion."* – **W. Edwards Deming**
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrsakr93&color=blueviolet&style=flat&label=Profile+Views" alt="Profile Views"/>
-</p>
+  <img src="https://img.shields.io/bad
