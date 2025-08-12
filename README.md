@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800&cache_bust=1" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160"/>
 </p>
 
 ---
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrsakr93&color=blueviolet&style=flat&label=Profile+Views&cache_bust=1" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=amrsakr93&color=blueviolet&style=flat&label=Profile+Views" alt="Profile Views"/>
 </p>
