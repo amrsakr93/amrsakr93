@@ -1,11 +1,11 @@
 # Hi there! 👋  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amr-sakr-433a8a164" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/amr-sakr-433a8a164" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>  
   <a href="mailto:amrsakrking@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -35,11 +35,29 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <!-- Main GitHub stats card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
     alt="GitHub Stats" 
     height="160"
-    onerror="this.style.display='none'"
+  />
+</p>
+
+<p align="center">
+  <!-- Fallback simpler stats card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amrsakr93&show_icons=true" 
+    alt="GitHub Stats Simple" 
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <!-- Alternative Profile Summary Card -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrsakr93&theme=radical" 
+    alt="GitHub Profile Summary" 
+    height="160"
   />
 </p>
 
@@ -48,8 +66,8 @@
 ## 🌍 Languages  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge&labelColor=2E3440&color=5E81AC"/>
-  <img src="https://img.shields.io/badge/Arabic-🇪🇬-green?style=for-the-badge&labelColor=2E3440&color=A3BE8C"/>
+  <img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge&labelColor=2E3440&color=5E81AC" alt="English"/>
+  <img src="https://img.shields.io/badge/Arabic-🇪🇬-green?style=for-the-badge&labelColor=2E3440&color=A3BE8C" alt="Arabic"/>
 </p>
 
 ---
@@ -60,4 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrsakr93&color=blueviolet&style=flat&label=Profile+Views" alt="Profile Vi
+  <img src="https://komarev.com/ghpvc/?username=amrsakr93&color=blueviolet&style=flat&label=Profile+Views" alt="Profile Views"/>
+</p>
